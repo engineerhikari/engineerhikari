@@ -57,4 +57,4 @@ I name my folders like:
   <i>“Code like a girl, dream like a queen.” 👑</i>
 </p>
 ---
-> 💖 Updated with love by `bimaadam` for Ririn Setiawati 💖
+## 💖 Updated with love by `bimaadam` for Ririn Setiawati 💖
