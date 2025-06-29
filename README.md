@@ -1,4 +1,4 @@
-<h1 align="center">🌷 Ririn Setiawati 🌷</h1>
+<h1 align="center">🌷 Hikari Ririn Takahashi (光 理凛 高橋)  🌷</h1>
 
 <p align="center">
   Tech enthusiast, dreamer, and lover of pastel code vibes 💻✨
