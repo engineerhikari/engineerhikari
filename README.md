@@ -1,60 +1,91 @@
-<h1 align="center">🌷 Hikari Ririn Takahashi (光 理凛 高橋)  🌷</h1>
-
+<h1 align="center">🌸 光 理凛 高橋 (Hikari Ririn Takahashi) 🌸</h1>
 <p align="center">
-  Tech enthusiast, dreamer, and lover of pastel code vibes 💻✨
+  <i>技術愛好家・夢見る人・パステルコードの恋人</i> 💻✨
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/フロントエンド開発者-%F0%9F%8C%B8-ff69b4" />
+  <img src="https://img.shields.io/badge/永遠の学習者-∞-ffc0cb" />
+  <img src="https://img.shields.io/badge/コーヒー愛-%E2%98%95%EF%B8%8F-8B4513" />
 </p>
 
+---
+
+## 🎋 私について (About Me)
+**こんにちは！理凛です** 🌺  
+テクノロジーとデザインに情熱を注ぐ学生で、新しいことを学ぶのが大好きです（特にピンク色のものが好き 💗）  
+現在、Web開発、UI/UX、そしてかわいいVSCodeテーマを探求中です ☁️🎀
+
+---
+
+## 🛠️ 使用ツール (Tools)
+- ✨ **VSCode** - 柔らかなピンクテーマで
+- 🌐 **HTML, CSS, JS** - 愛をこめて
+- 🌀 **TailwindCSS** - 魔法のようなレイアウトのために
+- 📝 **TypeScript** - ゆっくりでも確実に学習中
+
+---
+
+## 🌱 現在学習中 (Currently Learning)
+- React & コンポーネントスタイリング
+- Figmaでのモバイルデザイン
+- Git + GitHub（PR準備完了！😆）
+- 美しいアニメーション効果
+
+---
+
+## 🎯 美的目標 (Aesthetic Goals)
+- 初めてのポートフォリオサイトを構築 🌸
+- オープンソースへの貢献
+- ソフトUIのダッシュボードアプリ作成
+- デバッグ中も可愛さを保つ（難しい 😭）
+
+---
+
+## 🌙 楽しい事実 (Fun Fact)
+私のフォルダ命名法：  
+`🌸 my-first-project` • `🌙 dream-dashboard` • `✨ hello-tailwind`  
+`🎋 kawaii-components` • `🌺 pink-paradise`
+
+---
+
+## 📊 今週のコーディング統計
+```
+JavaScript   ████████████░░░░  75%
+CSS          ████████░░░░░░░░  50%
+HTML         ██████░░░░░░░░░░  40%
+TypeScript   ████░░░░░░░░░░░░  25%
+```
+
+---
+
+## 🌐 つながり (Connect)
+> 💗 インドネシア・ロンボクから愛をこめて 🇮🇩  
+> 実際の愛、学習、そして深夜のデバッグからインスピレーションを得ています ☕✨
+
+---
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend%20Dev-%F0%9F%92%97-pink" />
-  <img src="https://img.shields.io/badge/Learner-forever-ffb6c1" />
-  <img src="https://img.shields.io/badge/Love%20coffee-%E2%98%95%EF%B8%8F-brown" />
+  <i>「女の子のようにコードを書き、女王のように夢を見る」</i> 👑
 </p>
 
 ---
 
-## 💌 About Me
-Hi! I'm **Ririn**, a passionate student in tech & design who loves learning new things (especially when it's pink 💗).  
-Currently exploring web development, UI/UX, and cute VSCode themes ☁️🎀
-
----
-
-## 💻 Tools I Use
-- ✨ **VSCode** with soft pink themes
-- 🌐 **HTML, CSS, JS** with love
-- 🌀 **TailwindCSS** for magical layouts
-- 📝 Learning TypeScript slowly but surely
-
----
-
-## 🐣 Currently Learning
-- React & component styling  
-- Mobile design on Figma  
-- Git + GitHub (PR-ready, hehe 😆)
-
----
-
-## 🧋 Aesthetic Goals
-- Build my first portfolio site 🌸  
-- Contribute to open source  
-- Make a dashboard app with soft UI  
-- Stay cute while debugging (it's hard 😭)
-
----
-
-## 🌼 Fun Fact
-I name my folders like:  
-`🌸 my-first-project` • `🌙 dream-dashboard` • `✨ hello-tailwind`
-
----
-
-## 🌐 Connect
-> Built with 💗 from Lombok, Indonesia 🇮🇩  
-> Inspired by real-life love, learning, and late-night debugging ☕✨
+## 💫 最近の活動 (Recent Activity)
+- 🌸 新しいReactコンポーネントライブラリを発見
+- 🎨 パステルカラーのUIキットを作成中
+- 📚 日本のWebデザイントレンドを研究
+- 🍃 禅的なコーディング瞑想を実践
 
 ---
 
 <p align="center">
-  <i>“Code like a girl, dream like a queen.” 👑</i>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
 ---
-## 💖 Updated with love by `bimaadam` for Ririn Setiawati 💖
+
+## 💖 `bimaadam`によってRirin Setiawadiのために愛をこめて更新されました 💖
+
+<p align="center">
+  <sub>頑張って！ ✨ 夢は叶う 🌸</sub>
+</p>
