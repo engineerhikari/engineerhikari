@@ -84,7 +84,7 @@ TypeScript   ████░░░░░░░░░░░░  25%
 
 ---
 
-## 💖 `bimaadam`によってRirin Setiawadiのために愛をこめて更新されました 💖
+## 💖 `bimaadam`によってhikari Ririnのために愛をこめて更新されました 💖
 
 <p align="center">
   <sub>頑張って！ ✨ 夢は叶う 🌸</sub>
