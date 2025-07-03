@@ -1,4 +1,4 @@
-<h1 align="center">🌸 光 理凛 高橋 (Hikari Ririn Takahashi) 🌸</h1>
+<h1 align="center">🌸 光 理凛 高橋 (Hikari Takahashi) 🌸</h1>
 <p align="center">
   <i>技術愛好家・夢見る人・パステルコードの恋人</i> 💻✨
 </p>
